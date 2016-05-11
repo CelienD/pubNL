@@ -59,6 +59,9 @@
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
 }
+#ext_menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #header4-7 P {
   font-family: 'Roboto Slab', serif;
   font-size: 24px;
@@ -96,6 +99,9 @@
 #ext_menu-15 .mbr-navbar__items a {
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
+}
+#ext_menu-15 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #header4-16 P {
   font-family: 'Roboto Slab', serif;
@@ -143,6 +149,9 @@
 #ext_menu-22 .mbr-navbar__items a {
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
+}
+#ext_menu-22 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #msg-box4-35 .mbr-header__text {
   color: #ffffff;
